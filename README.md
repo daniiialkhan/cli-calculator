@@ -1,2 +1,14 @@
-# cli-calculator
-Command line calculator with add, sub, mul and div functionality. Implemented with rigorous error handling. 
+# CLI - Calculator
+
+Command line calculator implemented in RUST programming language.
+
+# Features
+
+- Addition (int & float)
+- Subtraction (int & float)
+- Multiplication (int & float)
+- Division (int & float)
+- Divide by zero handling
+- Rigorous Error Handling
+  
+
