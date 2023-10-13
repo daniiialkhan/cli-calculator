@@ -10,5 +10,8 @@ Command line calculator implemented in RUST programming language.
 - Division (int & float)
 - Divide by zero handling
 - Rigorous Error Handling
+- Basic Tests Functionality (using cargo test)
+- Random Tests Functionality (using cargo test)
+- CSV generation to store test results
   
 
