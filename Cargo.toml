@@ -6,3 +6,9 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand = "0.8.4"
+csv = "1.1.6"
+
+[lib]
+name = "cli_calculator"
+path = "src/lib/calc_operations.rs"
